@@ -8,3 +8,4 @@ Matheus Joan*,
 Thiago Anderson,
 Tiago Caio.
 
+*Major
